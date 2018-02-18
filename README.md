@@ -1,1 +1,1 @@
-# e.motion-client
+A mobile application which detects emotion of user's face and accordingly changes the emotion of the client monitor's display on which avatars are displayed. Our team developed this application during 3 days  FCBayern Hackdays 2018 event. We use Microsoft Cognitive Services for helping us to detect emotions. Our Backend application takes care of changing emotions of avatars on the Big screen monitors.
